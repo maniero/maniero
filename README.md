@@ -1,5 +1,6 @@
 <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5002397"><img src="https://i.stack.imgur.com/Pxtyu.png" alt="Veja meu perfil e realizações como Microsoft Most Valuable Professional"></a>
 
+<a href="https://www.youtube.com/@aartedocodigo"><img src="https://i.stack.imgur.com/LSc5f.png" alt="YouTube"></a>
 <a href="https://www.linkedin.com/company/aartedocodigo"><img src="https://i.stack.imgur.com/xuK85.png" alt="Linkedin"></a>
 <a href="https://aartedocodigo.quora.com/"><img src="https://i.stack.imgur.com/yTbv3.png" alt="Quora"></a>
 <a href="https://aartedocodigo.medium.com/"><img src="https://i.stack.imgur.com/XEJUq.png" alt="Medium"></a>
@@ -8,7 +9,6 @@
 <a href="https://www.reddit.com/user/aartedocodigo"><img src="https://i.stack.imgur.com/OJNTc.png" alt="Reddit"></a>
 <a href="https://twitter.com/aartedocodigo"><img src="https://i.stack.imgur.com/eAnZ3.png" alt="Twitter"></a>
 <a href="https://www.instagram.com/aartedocodigo"><img src="https://i.stack.imgur.com/eVVU9.png" alt="YouTube"></a>
-<a href="https://www.youtube.com/@aartedocodigo"><img src="https://i.stack.imgur.com/LSc5f.png" alt="YouTube"></a>
 <a href="https://www.facebook.com/aartedocodigo"><img src="https://i.stack.imgur.com/IUTRa.png" alt="Facebook"></a>  
 Em cada local eu posto coisas diferentes, então **me siga em vários deles**.
 <a href="https://stackexchange.com/users/77792">  
